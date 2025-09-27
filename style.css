@@ -100,7 +100,8 @@ body{
 
 .sidebar h3{
   font-family:Georgia, "Times New Roman", Times, serif;
-  margin-top:0;
+  margin-top: 25px;
+  margin-bottom: 12px;
 }
 .sidebar .social h3,
 .sidebar .archives h3{ color:var(--post-title); } /* green */
